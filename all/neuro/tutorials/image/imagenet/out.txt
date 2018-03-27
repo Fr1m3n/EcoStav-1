@@ -1,0 +1,1 @@
+ski(score = 0.100498) :unicycle, monocycle(score = 0.100149) :mountain bike, all-terrain bike, off-roader(score = 0.0884408) :tricycle, trike, velocipede(score = 0.0779941) :bow(score = 0.0454153) :

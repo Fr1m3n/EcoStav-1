@@ -1,0 +1,1 @@
+photocopier(score = 0.0918186) <br>washer, automatic washer, washing machine(score = 0.0572791) <br>refrigerator, icebox(score = 0.0196441) <br>bannister, banister, balustrade, balusters, handrail(score = 0.0174008) <br>sliding door(score = 0.0133547) <br>

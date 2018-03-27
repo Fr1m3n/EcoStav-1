@@ -1,0 +1,51 @@
+body {
+    background-color: #a3bcbd;
+}
+
+.test{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.blc {
+    background-color: aliceblue;
+    border-radius: 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+.btn-primary {
+    padding: 10px;
+}
+
+#loading_button{
+    visibility: hidden;
+    margin-top: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    text-align: center;
+}
+
+/*Spinner*/
+.glyphicon-refresh-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}
+/*-------*/
